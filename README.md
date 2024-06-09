@@ -7,6 +7,7 @@ Backend developer specialized in Java, experienced in Spring Boot / Spring Frame
 - Java
 - Spring Boot
 - Spring Framework
+- Python / Django
 - Desenvolvimento de APIs RESTful
 - Hibernate
 - Git / Github / Github Action
@@ -17,7 +18,7 @@ Backend developer specialized in Java, experienced in Spring Boot / Spring Frame
 ## Stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,rabbitmq,python,django,mongodb" />
   </a>
 </p>
 <p>
