@@ -1,6 +1,8 @@
 ## About me
 
-Backend developer specialized in Java, experienced in Spring Boot / Spring Framework. I possess solid skills in web applications and RESTful APIs development, along with deep knowledge in Git, Docker, and SQL / noSQL databases. I have experience in agile projects, effectively collaborating in international teams, ensuring quality deliveries within established deadlines. Additionally, I have significant experience in cloud technology integration, especially AWS, for scalable and robust implementations.
+I’m a back-end developer with solid experience in designing and building APIs, microservices, and distributed systems, always focusing on performance, scalability, and clean architecture. I have hands-on experience with the Spring ecosystem, including Spring Boot, Spring Cloud, and Spring Security, as well as working with cloud solutions (AWS, Azure), container orchestration (Kubernetes), Linux environments, asynchronous communication, and CI/CD automation.
+
+I’m passionate about learning new technologies, sharing knowledge, and delivering high-quality software that makes a real impact. Over the years, I’ve worked with a wide range of tools and frameworks, including Java (8/11/17/21), JPA, PostgreSQL, MySQL, Redis, Kafka, RabbitMQ, Docker, GitHub Actions, SonarQube, and testing frameworks such as JUnit, Mockito and Testcontainers — always guided by principles like Clean Code and SOLID.
 
 ## Skills
 
